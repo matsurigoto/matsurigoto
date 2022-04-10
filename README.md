@@ -28,14 +28,14 @@
 <br/>
 <br/>
 <h3 align="center">Support</h3>
-<p><a href="https://www.buymeacoffee.com/SnGtO2p"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duran Hsieh" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/SnGtO2p"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duran Hsieh" /></a></p><br><br>
 
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x73CbCeD3c324439c4F2A170F3Cbaa96b084bb314)](https://en.cryptobadges.io/donate/0x73CbCeD3c324439c4F2A170F3Cbaa96b084bb314)
 
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsurigoto&show_icons=true&locale=en" alt="matsurigoto" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matsurigoto&" alt="matsurigoto" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsurigoto&show_icons=true&locale=en" alt="matsurigoto" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matsurigoto&" alt="matsurigoto" /></p>
 
 
 
