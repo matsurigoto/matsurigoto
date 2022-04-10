@@ -8,7 +8,7 @@
     <a href="https://github.com/matsurigoto" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=matsurigoto&label=Profile%20views&color=0e75b6&style=flat" alt="matsurigoto" /></a> 
     <a href="https://github.com/matsurigoto" target="blank"><img align="center" src="https://img.shields.io/github/followers/matsurigoto?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
     <a href="https://www.youtube.com/channel/UCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCgThyBotL6ptS2HL-lbrVDw?label=YouTube%20Subscribers&style=plastic" alt="YouTube Channel Subscribers" /></a>
-    <a href="https://www.youtube.com/channelUCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCgThyBotL6ptS2HL-lbrVDw?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
+    <a href="https://www.youtube.com/channel/UCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCgThyBotL6ptS2HL-lbrVDw?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
 </p>
 
 
