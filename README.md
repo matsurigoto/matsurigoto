@@ -4,7 +4,15 @@
 
 <p align="center"> <a href="https://twitter.com/duranalfine" target="blank"><img src="https://img.shields.io/twitter/follow/duranalfine?logo=twitter&style=for-the-badge" alt="duranalfine" /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matsurigoto&label=Profile%20views&color=0e75b6&style=flat" alt="matsurigoto" /> </p>
+<p align="center"> 
+    <a href="https://github.com/matsurigoto" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=matsurigoto&label=Profile%20views&color=0e75b6&style=flat" alt="matsurigoto" /></a> 
+    <a href="https://github.com/matsurigoto" target="blank"><img align="center" src="https://img.shields.io/github/followers/matsurigoto?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
+    <a href="https://www.youtube.com/channel/UCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UCgThyBotL6ptS2HL-lbrVDw?label=YouTube%20Subscribers&style=plastic" alt="YouTube Channel Subscribers" /></a>
+    <a href="https://www.youtube.com/channelUCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/views/UCgThyBotL6ptS2HL-lbrVDw?label=YouTube%20Views&style=plastic" alt="YouTube Channel Views" /></a>
+</p>
+
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matsurigoto" alt="matsurigoto" /></a> </p>
 
 
@@ -17,33 +25,18 @@
 <a href="https://linkedin.com/in/duran-hsieh-4b65a688" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duran-hsieh-4b65a688" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7177400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7177400" height="30" width="40" /></a>
 <a href="https://fb.com/duran.alfine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duran.alfine" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UCgThyBotL6ptS2HL-lbrVDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="willhuang" height="30" width="40" /></a>
 </p>
 
 <br/>
+<br/>
 <h3 align="center">Website</h3>
-<div align="center">
+<p align="center"><a href="https://dog0416.blogspot.com">Blogger - Duran 技術冶煉廠</a></p>
+<p align="center"><a href="https://note.duranhsieh.com/">Blogger - Duran 速寫筆記</a></p>
+<p align="center"><a href="https://online-toolset.com/">Online toolbox</a></p>
+<p align="center"><a href="https://study4.tw/">.NET User Group - Study4.TW</a></p>
+<p align="center"><a href="https://www.facebook.com/GDG.Taichung/">Google Developer Group - Taichung</a></p>
 
-</div>
-
-<style>
-.container{
-    display: flex;           
-    justify-content: center;
-    align-items: center;     
-    .box{
-    }
-}
-</style>
-
-<div class="container">
-    <div class="box">
-        <p align="left"><a href="https://dog0416.blogspot.com">Blogger - Duran 技術冶煉廠</a></p>
-        <p align="left"><a href="https://note.duranhsieh.com/">Blogger - Duran 速寫筆記</a></p>
-        <p align="left"><a href="https://online-toolset.com/">Online toolbox</a></p>
-        <p align="left"><a href="https://study4.tw/">.NET User Group - Study4.TW</a></p>
-        <p align="left"><a href="https://www.facebook.com/GDG.Taichung/">Google Developer Group - Taichung</a></p>
-    </div>
-</div>
 
 
 
@@ -61,7 +54,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/SnGtO2p"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duran Hsieh" /></a></p>
 <p align="center"><a href="https://en.cryptobadges.io/donate/0x73CbCeD3c324439c4F2A170F3Cbaa96b084bb314"> <img align="center" src="https://en.cryptobadges.io/badge/big/0x73CbCeD3c324439c4F2A170F3Cbaa96b084bb314" /></a></p><br><br>
 
-
+<br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matsurigoto&show_icons=true&locale=en" alt="matsurigoto" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matsurigoto&" alt="matsurigoto" /></p>
 
