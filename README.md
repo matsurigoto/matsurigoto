@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duran Hsieh</h1>
-<h3 align="center">A Customer Engineer from Taiwan</h3>
+<h3 align="center">TMSC Principal Site Reliability Engineer </h3>
 
 
 <p align="center"> <a href="https://twitter.com/duranalfine" target="blank"><img src="https://img.shields.io/twitter/follow/duranalfine?logo=twitter&style=for-the-badge" alt="duranalfine" /></a> </p>
