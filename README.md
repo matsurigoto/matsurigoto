@@ -49,8 +49,12 @@
 <br/>
 
 
+<h3 align="center">My book</h3>
+![GitHubBook](/GitHubBook.jpg)
+<br/>
+<br/>
 
-<h3 align="center">Support</h3>
+<h3 align="center">Buy me a coffee :)</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/SnGtO2p"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Duran Hsieh" /></a></p><br><br>
 
 <br/>
