@@ -51,7 +51,7 @@
 
 <h3 align="center">My book</h3>
 <p align="center">
-    <a href="https://www.tenlong.com.tw/products/9786267146163"><img src="GitHubBook.jpg" alt="drawing" width="200"/></a>
+    <a href="https://www.tenlong.com.tw/products/9786267146163"><img src="GitHubBook.jpg" alt="GitHubBook" width="200"/></a>
 </p>
 
 
