@@ -35,7 +35,6 @@ test
 <h3 align="center">Website</h3>
 <p align="center"><a href="https://dog0416.blogspot.com">Blogger - Duran 技術冶煉廠</a></p>
 <p align="center"><a href="https://note.duranhsieh.com/">Blogger - Duran 速寫筆記</a></p>
-<p align="center"><a href="https://online-toolset.com/">Online toolbox</a></p>
 <p align="center"><a href="https://study4.tw/">.NET User Group - Study4.TW</a></p>
 <p align="center"><a href="https://www.facebook.com/GDG.Taichung/">Google Developer Group - Taichung</a></p>
 
