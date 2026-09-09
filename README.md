@@ -1,4 +1,3 @@
-test
 
 <h1 align="center">Hi 👋, I'm Duran Hsieh</h1>
 <h3 align="center">SRE Section Manager | GitHub Star | Microsoft MVP | Cloud Solutions Architect | Technical Speaker | Author</h3>
