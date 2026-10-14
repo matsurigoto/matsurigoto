@@ -86,8 +86,7 @@
 
 ## Latest Videos
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=E1bHVIYcq-E"><img width="32%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="你的 AI Agent 有紀律了！GitHub Copilot Hook 完整教學，讓你控制 Agent 每一步" title="你的 AI Agent 有紀律了！GitHub Copilot Hook 完整教學，讓你控制 Agent 每一步" /></a><a href="https://www.youtube.com/watch?v=PV0iGbGy8S8"><img width="32%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="VS Code 5 大新功能 - 打造更聰明的 AI Agents" title="VS Code 5 大新功能 - 打造更聰明的 AI Agents" /></a><a href="https://www.youtube.com/watch?v=rnzYMQiCfoY"><img width="32%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="VS Code Agent Skills 完整教學｜什麼是 Skill？怎麼建立？跟 Prompt File 差在哪？" title="VS Code Agent Skills 完整教學｜什麼是 Skill？怎麼建立？跟 Prompt File 差在哪？" /></a><!-- YOUTUBE:END -->
 
 ## Publications
 
