@@ -57,7 +57,7 @@
 <p align="center">
     <a href="https://www.books.com.tw/products/0011030568?sloc=main"><img src="https://www.books.com.tw/img/001/103/05/0011030568.jpg" alt="AI Agent 奇幻旅程：MCP 通往異世界金鑰" height="200"/></a>
     <a href="https://www.books.com.tw/products/0011020829?sloc=main"><img src="https://www.books.com.tw/img/001/102/08/0011020829.jpg" alt="GitHub Copilot讓你寫程式快 10 倍！AI 程式開發大解放" height="200"/></a>
-    <a href="https://www.tenlong.com.tw/products/9786267146163"><img src="GitHubBook.jpg" alt="動手學 GitHub！現代人不能不知道的協同合作平台" height="200"/></a>
+    <a href="https://www.tenlong.com.tw/products/9786267146163"><img src="https://distudio.blob.core.windows.net/staticweb/GitHubBook.jpg" alt="動手學 GitHub！現代人不能不知道的協同合作平台" height="200"/></a>
 </p>
 
 
