@@ -76,6 +76,12 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 時代名詞大解密：Loop、Harness、Squad、Vibe Coding 你聽懂了嗎？](https://note.duranhsieh.com/posts/decoding-new-ai-lingo/)
+- [Visual Studio 2022 / 2026 GitHub Copilot 對話紀錄如何匯出/匯入 &lpar;備份與還原&rpar;](https://note.duranhsieh.com/posts/visual-studio-copilot-chat-history-import-export/)
+- [使用 pre-commit 與 detect-secrets 避免將 secret 提交至 Git Repository](https://dog0416.blogspot.com/2024/11/pre-commit-detect-secrets-secret-g.html)
+- [將 GitHub Repository 匯入 Azure Repos 的詳細步驟教學](https://note.duranhsieh.com/posts/azure-devops-how-to-import-repo-from-github/)
+- [Harbor - Tag Retention Rules 介紹](https://dog0416.blogspot.com/2024/11/harbor-tag-retention-rules.html)
+- [使用 Yelp/detect-secrets 對程式碼進行敏感資訊與秘密掃描](https://dog0416.blogspot.com/2024/11/yelpdetect-secrets.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Videos
