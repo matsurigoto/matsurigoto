@@ -1,0 +1,67 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-commit
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Overview
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: matsurigoto
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Taipei
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: matsurigoto
+          base: ""
+          config_timezone: Asia/Taipei
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, dockerfile, shell, powershell
+          plugin_languages_skipped: matsurigoto/matsurigoto
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: matsurigoto
+          base: ""
+          config_timezone: Asia/Taipei
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_limit: 8
+
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: matsurigoto
+          base: ""
+          config_timezone: Asia/Taipei
+          plugin_repositories: yes
+          plugin_repositories_featured: copilot-workshop-agent-mode-mcp, agentic-workflow-demo, DevOpsAgent, GitOps-APISIX-Canary

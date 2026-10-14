@@ -1,0 +1,37 @@
+name: Latest blog posts and videos
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-commit
+  cancel-in-progress: false
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dog0416.blogspot.com/feeds/posts/default?alt=rss,https://note.duranhsieh.com/index.xml"
+          max_post_count: 6
+          comment_tag_name: BLOG-POST-LIST
+          commit_message: "chore: update latest blog posts"
+
+      - name: YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCgThyBotL6ptS2HL-lbrVDw"
+          max_post_count: 3
+          comment_tag_name: YOUTUBE
+          custom_tags: "channelId:yt:channelId/,videoId:yt:videoId/"
+          template: '<a href="$url"><img width="32%" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg" alt="$title" title="$title" /></a> '
+          commit_message: "chore: update latest YouTube videos"
