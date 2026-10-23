@@ -97,7 +97,7 @@
       <sub><b>AI Agent 奇幻旅程：MCP 通往異世界金鑰</b></sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.books.com.tw/products/0011020829?sloc=main"><img src="https://distudio.blob.core.windows.net/staticweb/copilot_book.jpg" alt="GitHub Copilot book cover" height="220" /></a><br />
+      <a href="https://www.books.com.tw/products/0011020829?sloc=main"><img src="https://distudio.blob.core.windows.net/staticweb/github_copilot_book.jpg" alt="GitHub Copilot book cover" height="220" /></a><br />
       <sub><b>GitHub Copilot 讓你寫程式快 10 倍！AI 程式開發大解放</b></sub>
     </td>
     <td align="center" width="33%">
